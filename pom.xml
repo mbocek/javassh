@@ -105,4 +105,19 @@
         </plugins>
     </build>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.sshtools</groupId>
+            <artifactId>terminal-swing</artifactId>
+            <version>2.1.2</version>
+        </dependency>
+    </dependencies>
+
+    <repositories>
+        <repository>
+            <id>sshtools</id>
+            <name>sshtools-releases</name>
+            <url>http://artifactory.javassh.com/public-releases</url>
+        </repository>
+    </repositories>
 </project>
