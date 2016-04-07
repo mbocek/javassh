@@ -1,4 +1,4 @@
-package org.javassh.javassh;
+package org.javassh;
 
 import javafx.application.Application;
 import static javafx.application.Application.launch;
